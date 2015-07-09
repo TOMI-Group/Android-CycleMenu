@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!-- 红色 -->
+    <color name="red">#ff4800</color>
+      <!-- 浅蓝色 -->
+    <color name="lblue">#71beff</color>
+      <!-- 灰色 -->
+    <color name="huise">#929292</color>
+    <color name="orange">#ffffbb33</color>
+    <color name="black">#000000</color>
+</resources>
